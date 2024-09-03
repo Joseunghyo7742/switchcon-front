@@ -34,7 +34,7 @@ npm run start
 ![alt text](image-1.png)
 
 ## 실제 화면
-![](image-2.png)
+![alt text](image-2.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
 ![alt text](image-5.png)
@@ -48,7 +48,7 @@ npm run start
 - 현재는 API Key가 만료되어 실행이 불가합니다.
 
 ## 유저 케이스
-![alt text](image-7.png)
+![alt text](image-6.png)
 
 ## 파일구조
 ```sh
